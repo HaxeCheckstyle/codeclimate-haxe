@@ -14,4 +14,4 @@ COPY . /usr/src/app
 VOLUME /code
 WORKDIR /code
 
-CMD ["/usr/src/app/bin/haxe-checkstyle", "-s=/code", "-c=/config.json"]
+CMD ["/usr/src/app/bin/haxe-checkstyle"]

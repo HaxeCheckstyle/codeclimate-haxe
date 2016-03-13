@@ -1,0 +1,16 @@
+{
+    "name": "codeclimate-haxe-checkstyle",
+    "description": "Static analysis tool for Haxe",
+    "version": "0.0.1",
+    "main": "./bin/run.n",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/adireddy/haxe-checkstyle-codeclimate"
+    },
+    "keywords": [
+	"haxe",
+	"checkstyle",
+	"codeclimate"
+    ],
+    "license": "MIT"
+}

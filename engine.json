@@ -1,0 +1,11 @@
+{
+  "name": "haxe-checkstyle",
+  "description": "Static analysis tool for Haxe",
+  "maintainer": {
+    "name": "Adi Reddy Mora",
+    "email": "adiinteractive@gmail.com"
+  },
+  "test_paths": [
+    "/usr/src/app/test/integration/"
+  ]
+}

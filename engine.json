@@ -4,8 +4,5 @@
   "maintainer": {
     "name": "Adi Reddy Mora",
     "email": "adiinteractive@gmail.com"
-  },
-  "test_paths": [
-    "/usr/src/app/test/integration/"
-  ]
+  }
 }

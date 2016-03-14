@@ -10,8 +10,9 @@ RUN useradd -u 9000 -r -s /bin/false app
 USER app
 
 COPY . /usr/src/app
+COPY ./lib/run.n /run.n
 
 VOLUME /code
 WORKDIR /code
 
-CMD ["neko", "/usr/src/app/lib/run", "-r", "codeclimate"]
+CMD ["neko", "/run", "-r", "codeclimate"]

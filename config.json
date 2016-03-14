@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "include_paths": ["src"],
+    "include_paths": ["test"],
     "config": "checkstyle.json",
     "exclude": "checkstyle-exclude.json"
 }

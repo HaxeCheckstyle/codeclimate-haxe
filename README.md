@@ -1,2 +1,2 @@
-# haxe-checkstyle-codeclimate
+# codeclimate-haxe
 Code climate integration

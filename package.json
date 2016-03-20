@@ -1,5 +1,5 @@
 {
-    "name": "codeclimate-haxe",
+    "name": "codeclimate-haxe-checkstyle",
     "description": "Static analysis tool for Haxe",
     "version": "0.0.1",
     "main": "./bin/run.n",

@@ -1,5 +1,5 @@
 {
-  "name": "haxe",
+  "name": "haxe-checkstyle",
   "description": "Static analysis tool for Haxe",
   "maintainer": {
     "name": "Adi Reddy Mora",

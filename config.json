@@ -1,6 +1,0 @@
-{
-    "enabled": true,
-    "include_paths": ["test"],
-    "config": "checkstyle.json",
-    "exclude": "checkstyle-exclude.json"
-}

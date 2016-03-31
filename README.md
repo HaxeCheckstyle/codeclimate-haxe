@@ -12,4 +12,4 @@
 
 ### Need help?
 
-For help with Haxe Checkstyle, [check out the repo here](https://github.com/HaxeCheckstyle/haxe-checkstyle).
+For help with Haxe Checkstyle, check out the [repo](https://github.com/HaxeCheckstyle/haxe-checkstyle) or [documentation](http://haxecheckstyle.github.io/docs/haxe-checkstyle/home.html).

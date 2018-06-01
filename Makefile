@@ -1,6 +1,6 @@
 .PHONY: image test
 
-IMAGE_NAME ?= codeclimate/codeclimate-haxe
+IMAGE_NAME ?= codeclimate/codeclimate-haxe-checkstyle
 
 image:
 	docker build --rm -t $(IMAGE_NAME) .

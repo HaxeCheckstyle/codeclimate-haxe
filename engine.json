@@ -1,8 +1,8 @@
 {
-  "name": "haxe-checkstyle",
-  "description": "Static analysis tool for Haxe",
-  "maintainer": {
-    "name": "Adi Reddy Mora",
-    "email": "adiinteractive@gmail.com"
-  }
+    "name": "haxe-checkstyle",
+    "description": "Static analysis tool for Haxe",
+    "maintainer": {
+        "name": "Alexander Blum",
+        "email": "Alexander.Blum@gmail.com"
+    }
 }

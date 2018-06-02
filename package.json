@@ -1,12 +1,13 @@
 {
     "name": "codeclimate-haxe-checkstyle",
     "description": "Static analysis tool for Haxe",
-    "version": "2.3.1",
+    "version": "2.4.0",
     "main": "./lib/run.n",
     "repository": {
         "type": "git",
         "url": "https://github.com/HaxeCheckstyle/codeclimate-haxe-checkstyle"
     },
+    "bugs": "https://github.com/HaxeCheckstyle/codeclimate-haxe-checkstyle/issues",
     "keywords": [
         "haxe",
         "checkstyle",

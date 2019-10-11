@@ -1,6 +1,6 @@
 FROM haxe:3.4.7
 LABEL maintainer="Alexander.Blum@gmail.com"
-LABEL version="2.4.2"
+LABEL version="2.5.0"
 LABEL description="Static analysis tool for Haxe"
 
 WORKDIR /usr/src/app/
